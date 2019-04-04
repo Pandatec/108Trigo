@@ -1,6 +1,6 @@
 As you may know (or not), the exponential function can be written as the sum of a power series:
 
-ex= ∞∑n=0xnn!= 1 +x+x22!+x33!+...
+ex= ∞∑n=0xnn!= 1 +x+x/22!+x/33!+...
 
 So does many other functions, such as trigonometric and hyperbolic functions.
 
